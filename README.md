@@ -35,7 +35,7 @@ Here are some of the tools and technologies I am learning:
 
 - **Built with**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000&style=flat-square), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&style=flat-square)
 - **Key Skills**: Systems programming, process management, user permissions.
-- **Check it out**: __________
+- **Check it out**: [GitHub Repo](https://github.com/Eleee28/42-Born2beRoot)
 
 ---
 
