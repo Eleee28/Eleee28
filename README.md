@@ -84,4 +84,4 @@ Here are some of the tools and technologies I am learning:
 
 ---
 
-### Thank you for visiting! 🙏 Feel free to check out my repositories and connect with me. 😊
+### Thank you for visiting! Feel free to check out my repositories and connect with me. 😊
