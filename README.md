@@ -20,9 +20,9 @@ Here are some of the tools and technologies I am learning:
 
 - **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff&style=flat), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff&style=flat)
 
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff&style=flat), ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&style=flat)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff&style=flat), ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) 
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=ffffff&style=flat), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=ffffff&style=flat)
-- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000&style=flat)
+- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000&style=flat), ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&style=flat)
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=flat)
 
 
