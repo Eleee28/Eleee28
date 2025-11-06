@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate learner with a keen interest in programming and AI.
+  Welcome to my GitHub profile! I'm a passionate learner with a keen interest in programming and learning new things.
 </p>
 
 <!--![github-header-image(1)](https://github.com/user-attachments/assets/b978317d-c525-4b5c-b028-eaf3b7854ca7)-->
